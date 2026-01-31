@@ -1,0 +1,1 @@
+next_room = rm_fire_n_ice_n_pepto_n;
