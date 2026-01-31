@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_settings",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":122,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_danger_CM",
+  "eventList":[],
   "managed":true,
-  "name":"obj_settings",
+  "name":"obj_danger_CM",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_danger_CM",
+    "path":"sprites/spr_danger_CM/spr_danger_CM.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
