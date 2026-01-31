@@ -22,15 +22,21 @@ switch current_mask {
 		can_pickup_mask = false;
 		instance_create_layer(x, y, "Instances_Immune", obj_red_mask);
 		current_mask = "none";
+		current_mask_id = -1;
+		current_mask_matches = [];
 		break;
 	case "green":
 		can_pickup_mask = false;
 		instance_create_layer(x, y, "Instances_Immune", obj_green_mask);
 		current_mask = "none";
+		current_mask_id = -1;
+		current_mask_matches = [];
 		break;
 	case "blue":
 		can_pickup_mask = false;
 		instance_create_layer(x, y, "Instances_Immune", obj_blue_mask);
 		current_mask = "none";
+		current_mask_id = -1;
+		current_mask_matches = [];
 		break;
 }
