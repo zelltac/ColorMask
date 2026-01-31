@@ -1,6 +1,8 @@
 global.player_depth = -1
 depth = global.player_depth
 current_mask = "none";
+current_mask_id = -1;
+current_mask_matches = [];
 can_pickup_mask = true;
 
 function is_in_wall(check_x, check_y) {

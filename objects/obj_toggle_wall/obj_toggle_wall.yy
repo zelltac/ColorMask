@@ -1,19 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"obj_lever_RG",
+  "%Name":"obj_toggle_wall",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_lever_RG",
+  "name":"obj_toggle_wall",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"obj_lever",
-    "path":"objects/obj_lever/obj_lever.yy",
+    "name":"obj_wall",
+    "path":"objects/obj_wall/obj_wall.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_lever_RG",
-    "path":"sprites/spr_lever_RG/spr_lever_RG.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

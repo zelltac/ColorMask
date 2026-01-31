@@ -19,7 +19,9 @@ switch player_object.current_mask {
 		break;
 }
 
+player_object.current_mask_id = id;
 player_object.current_mask = mask_color;
+player_object.current_mask_matches = mask_matches
 
 var layer_id = layer_get_id("Tiles");
 layer_shader(layer_id, mask_shader);
@@ -27,16 +29,6 @@ layer_shader(layer_id, mask_shader);
 layer_id = layer_get_id("Instances");
 layer_shader(layer_id, mask_shader);
 
-with(obj_wall) {
-	for(i=0; i<array_length(other.mask_matches); i++) {
-		if original_color == other.mask_matches[i] {
-			passable = true;
-			break;
-		}
-		else {
-			passable = false;
-		}
-	}
-}
+UpdateWallState();
 
 instance_destroy()
