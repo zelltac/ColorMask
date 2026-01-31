@@ -40,3 +40,5 @@ switch current_mask {
 		current_mask_matches = [];
 		break;
 }
+
+UpdateWallState();
