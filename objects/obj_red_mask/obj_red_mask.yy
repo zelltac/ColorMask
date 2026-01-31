@@ -8,8 +8,8 @@
   "name":"obj_red_mask",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"masks",
+    "path":"folders/Objects/masks.yy",
   },
   "parentObjectId":{
     "name":"obj_mask",

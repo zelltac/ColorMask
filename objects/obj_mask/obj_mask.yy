@@ -9,8 +9,8 @@
   "name":"obj_mask",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"masks",
+    "path":"folders/Objects/masks.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -9,8 +9,8 @@
   "name":"obj_reset_button",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"buttons",
+    "path":"folders/Objects/buttons.yy",
   },
   "parentObjectId":{
     "name":"obj_button",
@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_reset",
-    "path":"sprites/spr_reset/spr_reset.yy",
+    "name":"spr_reset_button",
+    "path":"sprites/spr_reset_button/spr_reset_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
