@@ -31,7 +31,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.3.217",
+    "IDEVersion":"2024.1400.3.974",
   },
   "name":"ColorMask",
   "resources":[
@@ -41,6 +41,8 @@
     {"id":{"name":"obj_cyan_wall","path":"objects/obj_cyan_wall/obj_cyan_wall.yy",},},
     {"id":{"name":"obj_green_mask","path":"objects/obj_green_mask/obj_green_mask.yy",},},
     {"id":{"name":"obj_green_wall","path":"objects/obj_green_wall/obj_green_wall.yy",},},
+    {"id":{"name":"obj_lever_RG","path":"objects/obj_lever_RG/obj_lever_RG.yy",},},
+    {"id":{"name":"obj_lever","path":"objects/obj_lever/obj_lever.yy",},},
     {"id":{"name":"obj_magenta_wall","path":"objects/obj_magenta_wall/obj_magenta_wall.yy",},},
     {"id":{"name":"obj_mask","path":"objects/obj_mask/obj_mask.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
@@ -51,12 +53,14 @@
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_yellow_wall","path":"objects/obj_yellow_wall/obj_yellow_wall.yy",},},
     {"id":{"name":"rm_demo","path":"rooms/rm_demo/rm_demo.yy",},},
+    {"id":{"name":"rm_demo2","path":"rooms/rm_demo2/rm_demo2.yy",},},
     {"id":{"name":"shd_blue","path":"shaders/shd_blue/shd_blue.yy",},},
     {"id":{"name":"shd_cyan","path":"shaders/shd_cyan/shd_cyan.yy",},},
     {"id":{"name":"shd_green","path":"shaders/shd_green/shd_green.yy",},},
     {"id":{"name":"shd_magenta","path":"shaders/shd_magenta/shd_magenta.yy",},},
     {"id":{"name":"shd_red","path":"shaders/shd_red/shd_red.yy",},},
     {"id":{"name":"shd_yellow","path":"shaders/shd_yellow/shd_yellow.yy",},},
+    {"id":{"name":"lever_RG","path":"sprites/lever_RG/lever_RG.yy",},},
     {"id":{"name":"spr_black_wall","path":"sprites/spr_black_wall/spr_black_wall.yy",},},
     {"id":{"name":"spr_blue_mask","path":"sprites/spr_blue_mask/spr_blue_mask.yy",},},
     {"id":{"name":"spr_blue_wall","path":"sprites/spr_blue_wall/spr_blue_wall.yy",},},
@@ -68,6 +72,7 @@
     {"id":{"name":"spr_red_mask","path":"sprites/spr_red_mask/spr_red_mask.yy",},},
     {"id":{"name":"spr_red_wall","path":"sprites/spr_red_wall/spr_red_wall.yy",},},
     {"id":{"name":"spr_tileset","path":"sprites/spr_tileset/spr_tileset.yy",},},
+    {"id":{"name":"spr_toggle_RG","path":"sprites/spr_toggle_RG/spr_toggle_RG.yy",},},
     {"id":{"name":"spr_trophy","path":"sprites/spr_trophy/spr_trophy.yy",},},
     {"id":{"name":"spr_yellow_wall","path":"sprites/spr_yellow_wall/spr_yellow_wall.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
@@ -76,6 +81,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_demo","path":"rooms/rm_demo/rm_demo.yy",},},
+    {"roomId":{"name":"rm_demo2","path":"rooms/rm_demo2/rm_demo2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
