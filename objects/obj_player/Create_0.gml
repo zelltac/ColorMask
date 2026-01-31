@@ -1,3 +1,5 @@
+global.player_depth = -1
+depth = global.player_depth
 current_mask = "none";
 can_pickup_mask = true;
 
