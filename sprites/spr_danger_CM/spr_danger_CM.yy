@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"spr_danger_CM",
   "bboxMode":0,
-  "bbox_bottom":15,
+  "bbox_bottom":30,
   "bbox_left":0,
   "bbox_right":15,
   "bbox_top":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":16,
+  "height":32,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"869bb9cb-0f23-4290-8b46-0687a4be6289","blendMode":0,"displayName":"default","isLocked":false,"name":"869bb9cb-0f23-4290-8b46-0687a4be6289","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
