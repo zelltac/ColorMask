@@ -117,6 +117,8 @@
     {"id":{"name":"spr_magenta_wall","path":"sprites/spr_magenta_wall/spr_magenta_wall.yy",},},
     {"id":{"name":"spr_mask_remover","path":"sprites/spr_mask_remover/spr_mask_remover.yy",},},
     {"id":{"name":"spr_pepto","path":"sprites/spr_pepto/spr_pepto.yy",},},
+    {"id":{"name":"spr_player_hop_left","path":"sprites/spr_player_hop_left/spr_player_hop_left.yy",},},
+    {"id":{"name":"spr_player_hop_right","path":"sprites/spr_player_hop_right/spr_player_hop_right.yy",},},
     {"id":{"name":"spr_player_idle_left","path":"sprites/spr_player_idle_left/spr_player_idle_left.yy",},},
     {"id":{"name":"spr_player_idle_right","path":"sprites/spr_player_idle_right/spr_player_idle_right.yy",},},
     {"id":{"name":"spr_player_leap_left","path":"sprites/spr_player_leap_left/spr_player_leap_left.yy",},},
