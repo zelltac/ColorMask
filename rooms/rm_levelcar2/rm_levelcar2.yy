@@ -281,9 +281,15 @@
         {"$GMRInstance":"v4","%Name":"inst_2D105A3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2D105A3","objectId":{"name":"obj_wall_gr","path":"objects/obj_wall_gr/obj_wall_gr.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":336.0,"y":192.0,},
         {"$GMRInstance":"v4","%Name":"inst_653BE988","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_653BE988","objectId":{"name":"obj_wall_gm","path":"objects/obj_wall_gm/obj_wall_gm.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":208.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRTileLayer":"","%Name":"Tiles","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":23,"SerialiseWidth":40,"TileCompressedData":[
-          -209,3,-18,1,-22,3,-18,1,-22,3,-18,1,-22,3,-18,1,-22,3,-18,1,-22,3,-18,1,-22,3,-18,1,-22,3,-18,1,-22,
-          3,-18,1,-22,3,-18,1,-22,3,-18,1,-22,3,-18,1,-253,3,
+    {"$GMRTileLayer":"","%Name":"Tiles","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":22,"SerialiseWidth":40,"TileCompressedData":[
+          -83,2,-2,1,-16,2,-4,1,-17,2,-4,1,-4,2,-5,1,-4,2,-7,1,-16,2,-4,1,-2,2,-20,1,-13,2,-5,1,1,2,-21,1,-4,2,
+          -6,1,-3,2,6,97,98,1,1,98,2,-21,1,-3,2,-7,1,-4,2,5,131,99,100,2,2,-21,1,-2,2,-9,1,-4,2,1,130,-3,2,-21,
+          1,-2,2,-9,1,-7,2,-22,1,-2,2,-9,1,-3,2,-2,1,-2,2,1,97,-21,1,-2,2,-9,1,-2,2,-3,1,-2,2,-22,1,-2,2,1,98,
+          -8,1,-2,2,-3,1,-2,2,-22,1,-2,2,1,131,-8,1,-2,2,-3,1,-2,2,-22,1,-3,2,-6,1,4,97,98,2,2,-3,1,-2,2,-22,1,
+          -3,2,7,97,98,97,98,99,98,130,-3,2,5,98,1,1,2,2,-22,1,-14,2,4,100,1,2,2,-22,1,-7,2,-3,1,-4,2,5,130,97,
+          2,2,100,-21,1,-5,2,-5,1,-5,2,1,131,-3,2,1,97,-20,1,-4,2,-7,1,-9,2,2,99,100,-8,1,2,97,98,-6,1,2,99,100,
+          -4,2,-7,1,-10,2,12,131,97,98,99,98,99,98,99,100,131,2,2,-3,1,3,98,99,130,-5,2,1,98,-5,1,1,97,-22,2,3,
+          97,98,99,-9,2,7,99,100,98,99,100,131,2,
         ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
@@ -303,7 +309,7 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":360,
+    "Height":352,
     "inheritRoomSettings":false,
     "persistent":false,
     "Width":640,
@@ -322,7 +328,7 @@
   "viewSettings":{
     "clearDisplayBuffer":true,
     "clearViewBackground":false,
-    "enableViews":true,
+    "enableViews":false,
     "inheritViewSettings":false,
   },
   "volume":1.0,
