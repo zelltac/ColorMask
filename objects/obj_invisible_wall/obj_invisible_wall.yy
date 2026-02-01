@@ -1,17 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_trophy",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_invisible_wall",
+  "eventList":[],
   "managed":true,
-  "name":"obj_trophy",
+  "name":"obj_invisible_wall",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"walls",
+    "path":"folders/Objects/walls.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_wall",
+    "path":"objects/obj_wall/obj_wall.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_trophy",
-    "path":"sprites/spr_trophy/spr_trophy.yy",
+    "name":"spr_invisible_wall",
+    "path":"sprites/spr_invisible_wall/spr_invisible_wall.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

@@ -1,1 +1,0 @@
-next_room = rm_tutorial_1_n;

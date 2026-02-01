@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_trophy",
+  "%Name":"obj_final_victory",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_trophy",
+  "name":"obj_final_victory",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_trophy",
-    "path":"sprites/spr_trophy/spr_trophy.yy",
+    "name":"spr_centered_trophy",
+    "path":"sprites/spr_centered_trophy/spr_centered_trophy.yy",
   },
   "spriteMaskId":null,
   "visible":true,
