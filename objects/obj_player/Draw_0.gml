@@ -18,9 +18,20 @@ switch current_mask {
 		start_frame = 6;
 		end_frame = 7;
 		break;
+    case "cyan":
+		start_frame = 8;
+		end_frame = 9;
+		break;
+	case "magenta":
+		start_frame = 10;
+		end_frame = 11;
+		break;
+	case "yellow":
+		start_frame = 12;
+		end_frame = 13;
+		break;
 }
 
-show_debug_message(image_index);
 if (image_index < start_frame or image_index >= end_frame+1) {
 	image_index = start_frame;
 }

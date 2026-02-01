@@ -40,6 +40,27 @@ switch current_mask {
 		current_mask_id = -1;
 		current_mask_matches = [];
 		break;
+    case "cyan":
+		can_pickup_mask = false;
+		instance_create_layer(x, y, "Instances_Immune", obj_cyan_mask);
+		current_mask = "none";
+		current_mask_id = -1;
+		current_mask_matches = [];
+		break;
+	case "magenta":
+		can_pickup_mask = false;
+		instance_create_layer(x, y, "Instances_Immune", obj_magenta_mask);
+		current_mask = "none";
+		current_mask_id = -1;
+		current_mask_matches = [];
+		break;
+	case "yellow":
+		can_pickup_mask = false;
+		instance_create_layer(x, y, "Instances_Immune", obj_yellow_mask);
+		current_mask = "none";
+		current_mask_id = -1;
+		current_mask_matches = [];
+		break;
 }
 
 UpdateWallState();
