@@ -7,7 +7,14 @@ function is_in_wall(check_x, check_y) {
         return true;
     player_object = instance_find(obj_player, 0);
 	with(obj_wall) {
-		if x == check_x and y == check_y and GetModifiedColor(original_color, other.player_object.current_mask) != other.car_color {
+		// First check mask color to see if there's no block
+		if (x == check_x) and (y == check_y) 
+		and GetModifiedColor(original_color, other.player_object.current_mask) == other.player_object.current_mask {
+			return false;	
+		}
+		// Then check if block is car color.
+		if (x == check_x) and (y == check_y) 
+		and (GetModifiedColor(original_color, other.player_object.current_mask) != other.car_color) {
 			return true;
 		}
 	}
