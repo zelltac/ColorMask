@@ -64,7 +64,6 @@ else {
 	}
 }
 
-show_debug_message(image_index);
 if (image_index < start_frame or image_index >= end_frame+1) {
 	image_index = start_frame;
 }

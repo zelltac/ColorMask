@@ -1,5 +1,7 @@
 function GetModifiedColor(original_color, filter_color) {
     switch (original_color) {
+		case "black":
+            return "black";
     	case "red":
             switch (filter_color) {
             	case "red":

@@ -1,5 +1,9 @@
-car = instance_find(obj_car, 0);
-is_colliding = instance_position(x,y,obj_player) || (car != noone && (car.x == x && car.y == y));
+
+is_colliding = instance_position(x,y,obj_player) ;
+with(obj_car)
+{
+	other.is_colliding = other.is_colliding || (x == other.x && y == other.y);
+}
 
 // Change wall and toggle state
 if(is_colliding and not was_colliding) {
