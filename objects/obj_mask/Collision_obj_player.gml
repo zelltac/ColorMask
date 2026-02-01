@@ -17,6 +17,15 @@ switch player_object.current_mask {
 	case "blue":
 		instance_create_layer(x, y, "Instances_Immune", obj_blue_mask);
 		break;
+    case "cyan":
+		instance_create_layer(x, y, "Instances_Immune", obj_cyan_mask);
+		break;
+	case "magenta":
+		instance_create_layer(x, y, "Instances_Immune", obj_magenta_mask);
+		break;
+	case "yellow":
+		instance_create_layer(x, y, "Instances_Immune", obj_yellow_mask);
+		break;
 }
 
 player_object.current_mask_id = id;
