@@ -44,7 +44,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.3.217",
+    "IDEVersion":"2024.1400.3.974",
   },
   "name":"ColorMask",
   "resources":[
@@ -190,16 +190,16 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_levelcar2","path":"rooms/rm_levelcar2/rm_levelcar2.yy",},},
     {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"roomId":{"name":"rm_demo","path":"rooms/rm_demo/rm_demo.yy",},},
-    {"roomId":{"name":"rm_level20xx","path":"rooms/rm_level20xx/rm_level20xx.yy",},},
+    {"roomId":{"name":"rm_demo2","path":"rooms/rm_demo2/rm_demo2.yy",},},
     {"roomId":{"name":"rm_fire_n_ice_n_pepto_n","path":"rooms/rm_fire_n_ice_n_pepto_n/rm_fire_n_ice_n_pepto_n.yy",},},
     {"roomId":{"name":"rm_level4","path":"rooms/rm_level4/rm_level4.yy",},},
-    {"roomId":{"name":"rm_demo","path":"rooms/rm_demo/rm_demo.yy",},},
-    {"roomId":{"name":"rm_demo2","path":"rooms/rm_demo2/rm_demo2.yy",},},
-    {"roomId":{"name":"rm_tutorial_1_n","path":"rooms/rm_tutorial_1_n/rm_tutorial_1_n.yy",},},
+    {"roomId":{"name":"rm_levelcar2","path":"rooms/rm_levelcar2/rm_levelcar2.yy",},},
     {"roomId":{"name":"rm_level7","path":"rooms/rm_level7/rm_level7.yy",},},
+    {"roomId":{"name":"rm_level20xx","path":"rooms/rm_level20xx/rm_level20xx.yy",},},
+    {"roomId":{"name":"rm_demo","path":"rooms/rm_demo/rm_demo.yy",},},
+    {"roomId":{"name":"rm_tutorial_1_n","path":"rooms/rm_tutorial_1_n/rm_tutorial_1_n.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
