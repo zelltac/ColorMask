@@ -1,19 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall_gr",
+  "%Name":"obj_toggle_yg",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_wall_gr",
+  "name":"obj_toggle_yg",
   "overriddenProperties":[],
   "parent":{
-    "name":"toggle_walls",
-    "path":"folders/Objects/walls/toggle_walls.yy",
+    "name":"toggles",
+    "path":"folders/Objects/toggles.yy",
   },
   "parentObjectId":{
-    "name":"obj_toggle_wall",
-    "path":"objects/obj_toggle_wall/obj_toggle_wall.yy",
+    "name":"obj_toggle",
+    "path":"objects/obj_toggle/obj_toggle.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_wall_gr",
-    "path":"sprites/spr_wall_gr/spr_wall_gr.yy",
+    "name":"spr_toggle_yg",
+    "path":"sprites/spr_toggle_yg/spr_toggle_yg.yy",
   },
   "spriteMaskId":null,
   "visible":true,

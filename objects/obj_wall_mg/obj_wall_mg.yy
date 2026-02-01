@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall_gr",
+  "%Name":"obj_wall_mg",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_wall_gr",
+  "name":"obj_wall_mg",
   "overriddenProperties":[],
   "parent":{
     "name":"toggle_walls",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_wall_gr",
-    "path":"sprites/spr_wall_gr/spr_wall_gr.yy",
+    "name":"spr_wall_mg",
+    "path":"sprites/spr_wall_mg/spr_wall_mg.yy",
   },
   "spriteMaskId":null,
   "visible":true,

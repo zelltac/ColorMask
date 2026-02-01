@@ -8,8 +8,8 @@
   "name":"obj_wall_ym",
   "overriddenProperties":[],
   "parent":{
-    "name":"walls",
-    "path":"folders/Objects/walls.yy",
+    "name":"toggle_walls",
+    "path":"folders/Objects/walls/toggle_walls.yy",
   },
   "parentObjectId":{
     "name":"obj_toggle_wall",

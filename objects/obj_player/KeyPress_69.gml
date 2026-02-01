@@ -1,5 +1,4 @@
 // Put down mask
-
 with(obj_mask) {
 	if(x == other.x and y == other.y) {
 		exit;
