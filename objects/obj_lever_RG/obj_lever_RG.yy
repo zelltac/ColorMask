@@ -8,8 +8,8 @@
   "name":"obj_lever_RG",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"toggles",
+    "path":"folders/Objects/toggles.yy",
   },
   "parentObjectId":{
     "name":"obj_lever",

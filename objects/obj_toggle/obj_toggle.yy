@@ -9,8 +9,8 @@
   "name":"obj_toggle",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"toggles",
+    "path":"folders/Objects/toggles.yy",
   },
   "parentObjectId":null,
   "persistent":false,

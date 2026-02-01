@@ -20,7 +20,6 @@ if(is_colliding and not was_colliding) {
 			var temp_color = toggle_color;
 			toggle_color = original_color;
 			original_color = temp_color;
-			show_debug_message("POOOOP")
 			if(image_index == 0) {
 				image_index = 1;
 			} else {

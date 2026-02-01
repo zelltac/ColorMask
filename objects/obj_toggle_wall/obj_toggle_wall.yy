@@ -9,8 +9,8 @@
   "name":"obj_toggle_wall",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"toggles",
+    "path":"folders/Objects/toggles.yy",
   },
   "parentObjectId":{
     "name":"obj_wall",
