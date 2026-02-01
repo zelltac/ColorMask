@@ -9,8 +9,8 @@
   "name":"obj_arrow",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"arrows",
+    "path":"folders/Objects/arrows.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -8,8 +8,8 @@
   "name":"obj_red_arrow",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"arrows",
+    "path":"folders/Objects/arrows.yy",
   },
   "parentObjectId":{
     "name":"obj_arrow",
