@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sun_boss",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_sun_boss_body",
+  "eventList":[],
   "managed":true,
-  "name":"obj_sun_boss",
+  "name":"obj_sun_boss_body",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_sun_boss_head",
-    "path":"sprites/spr_sun_boss_head/spr_sun_boss_head.yy",
+    "name":"spr_sun_boss_body",
+    "path":"sprites/spr_sun_boss_body/spr_sun_boss_body.yy",
   },
   "spriteMaskId":null,
   "visible":true,
