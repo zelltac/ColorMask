@@ -16,6 +16,10 @@ player_speed = 2; // must evenly divide 16
 start_frame = 0;
 end_frame = 1;
 
+// player create event running means we have a new room, so we start with base music
+audio_controller = instance_find(obj_audio_controller, 0);
+audio_controller.switch_track(0);
+
 function is_in_wall(check_x, check_y) {
     if (check_x < 0 or check_y < 0 or check_x >= room_width or check_y >= room_height)
         return true;

@@ -57,8 +57,8 @@ else {
 			end_frame = 29;
 			break;
 		case "yellow":
-			start_frame = 54;
-			end_frame = 62;
+			start_frame = 30;
+			end_frame = 34;
 			break;
 		
 	}

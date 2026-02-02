@@ -16,6 +16,10 @@ with(obj_wall) {
 	passable = false;
 }
 
+if current_mask != "none" {
+	audio_controller.switch_track(0);
+}
+
 switch current_mask {
 	case "none":
 		break;
