@@ -9,8 +9,8 @@
   "name":"obj_sun_boss",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"final_boss",
+    "path":"folders/Objects/final_boss.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -17,6 +17,7 @@
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"arrows","folderPath":"folders/Objects/arrows.yy","name":"arrows","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"buttons","folderPath":"folders/Objects/buttons.yy","name":"buttons","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"final_boss","folderPath":"folders/Objects/final_boss.yy","name":"final_boss","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"masks","folderPath":"folders/Objects/masks.yy","name":"masks","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"toggles","folderPath":"folders/Objects/toggles.yy","name":"toggles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"walls","folderPath":"folders/Objects/walls.yy","name":"walls","resourceType":"GMFolder","resourceVersion":"2.0",},
