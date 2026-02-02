@@ -136,7 +136,6 @@
     {"id":{"name":"rm_level7","path":"rooms/rm_level7/rm_level7.yy",},},
     {"id":{"name":"rm_levelcar2","path":"rooms/rm_levelcar2/rm_levelcar2.yy",},},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
-    {"id":{"name":"rm_tutorial_1_n","path":"rooms/rm_tutorial_1_n/rm_tutorial_1_n.yy",},},
     {"id":{"name":"rm_winning","path":"rooms/rm_winning/rm_winning.yy",},},
     {"id":{"name":"GetModifiedColor","path":"scripts/GetModifiedColor/GetModifiedColor.yy",},},
     {"id":{"name":"UpdateWallState","path":"scripts/UpdateWallState/UpdateWallState.yy",},},
@@ -251,9 +250,6 @@
     {"roomId":{"name":"rm_level20xx","path":"rooms/rm_level20xx/rm_level20xx.yy",},},
     {"roomId":{"name":"rm_final_boss","path":"rooms/rm_final_boss/rm_final_boss.yy",},},
     {"roomId":{"name":"rm_winning","path":"rooms/rm_winning/rm_winning.yy",},},
-    {"roomId":{"name":"rm_demo","path":"rooms/rm_demo/rm_demo.yy",},},
-    {"roomId":{"name":"rm_levelcar2","path":"rooms/rm_levelcar2/rm_levelcar2.yy",},},
-    {"roomId":{"name":"rm_tutorial_1_n","path":"rooms/rm_tutorial_1_n/rm_tutorial_1_n.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
