@@ -1,9 +1,5 @@
 if hp = 0 {
-	with (obj_sun_boss_eye) {
-		instance_destroy();
-	}
-	instance_create_layer(room_width/2, room_height/2, "Instances_Immune", obj_final_victory);
-	instance_destroy();
+	room_goto_next();
 }
 
 steps_since_ring_attack++;
